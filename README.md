@@ -1,3 +1,3 @@
-# Ring leader election
+# Global state recording
 
-Ring-structured **distributed** system  with **failover** based on *RabbitMQ* queues
+**Distributed** system with **global snapshots** based on *RabbitMQ* queues
